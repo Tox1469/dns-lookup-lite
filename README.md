@@ -1,3 +1,10 @@
+[![CI](https://img.shields.io/github/actions/workflow/status/Tox1469/dns-lookup-lite/ci.yml?style=flat-square&label=ci)](https://github.com/Tox1469/dns-lookup-lite/actions)
+[![License](https://img.shields.io/github/license/Tox1469/dns-lookup-lite?style=flat-square)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/Tox1469/dns-lookup-lite?style=flat-square)](https://github.com/Tox1469/dns-lookup-lite/releases)
+[![Stars](https://img.shields.io/github/stars/Tox1469/dns-lookup-lite?style=flat-square)](https://github.com/Tox1469/dns-lookup-lite/stargazers)
+
+---
+
 # dns-lookup-lite
 
 Helper mínimo sobre `node:dns/promises` para resolver A/AAAA/MX/TXT e reverse DNS.
